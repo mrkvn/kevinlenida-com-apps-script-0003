@@ -5,8 +5,8 @@ function loadSidebar() {
 
 function createMenu() {
     const ui = SpreadsheetApp.getUi();
-    const menu = ui.createMenu("SecretLangTo");
-    menu.addItem("Shh", "loadSidebar");
+    const menu = ui.createMenu("Invoice");
+    menu.addItem("Extract", "loadSidebar");
     menu.addToUi();
 }
 
