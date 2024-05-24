@@ -1,2 +1,2 @@
 # kevinlenida-com-apps-script-0003
-kevinlenida.com/posts/extract-data-from-invoice-to-google-sheets-using-gemini-vision
+[kevinlenida.com/posts/extract-data-from-invoice-to-google-sheets-using-gemini-vision](https://kevinlenida.com/posts/extract-data-from-invoice-to-google-sheets-using-gemini-vision)
